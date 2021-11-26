@@ -1,0 +1,158 @@
+country,region,alpha-3
+Afghanistan,Indian,AFG
+Albania,CentralSouthEuropean,ALB
+Algeria,Arabian,DZA
+Angola,African,AGO
+Argentina,CentralSouthEuropean,ARG
+Armenia,CentralSouthEuropean,ARM
+Austria,NorthEuropean,AUT
+Azerbaijan,Slavic,AZE
+Bahamas,NorthEuropean,BHS
+Bangladesh,Indian,BGD
+Belarus,Slavic,BLR
+Belgium,NorthEuropean,BEL
+Belize,CentralSouthEuropean,BLZ
+Benin,African,BEN
+Bhutan,ambiguous,BTN
+Bolivia,CentralSouthEuropean,BOL
+Bosnia And Herzegovina,Slavic,BIH
+Botswana,African,BWA
+Brazil,CentralSouthEuropean,BRA
+Brunei,Indian,BRN
+Bulgaria,Slavic,BGR
+Burkina Faso,African,BFA
+Burundi,African,BDI
+Cambodia,Asian,KHM
+Cameroon,African,CMR
+Canada,ambiguous,CAN
+Cape Verde,CentralSouthEuropean,CPV
+Chile,CentralSouthEuropean,CHL
+China,Asian,CHN
+Colombia,CentralSouthEuropean,COL
+Costa Rica,CentralSouthEuropean,CRI
+Côte D'Ivoire,African,CIV
+Croatia,Slavic,HRV
+Cuba,CentralSouthEuropean,CUB
+Cyprus,CentralSouthEuropean,CYP
+Czechia,Slavic,CZE
+Denmark,NorthEuropean,DNK
+Dominican Republic,CentralSouthEuropean,DOM
+Dr Congo,African,COD
+Ecuador,CentralSouthEuropean,ECU
+Egypt,Arabian,EGY
+El Salvador,CentralSouthEuropean,SLV
+Estonia,CentralSouthEuropean,EST
+Ethiopia,African,ETH
+Finland,CentralSouthEuropean,FIN
+France,NorthEuropean,FRA
+Gabon,African,GAB
+Gambia,African,GMB
+Georgia,CentralSouthEuropean,GEO
+Germany,NorthEuropean,DEU
+Ghana,African,GHA
+Greece,CentralSouthEuropean,GRC
+Guatemala,CentralSouthEuropean,GTM
+Guinea,African,GIN
+Guyana,ambiguous,GUY
+Haiti,NorthEuropean,HTI
+Honduras,CentralSouthEuropean,HND
+Hong Kong,Asian,HKG
+Hungary,CentralSouthEuropean,HUN
+Iceland,NorthEuropean,ISL
+India,Indian,IND
+Indonesia,Asian,IDN
+Iran,Indian,IRN
+Iraq,Arabian,IRQ
+Ireland,NorthEuropean,IRL
+Israel,ambiguous,ISR
+Italy,CentralSouthEuropean,ITA
+Jamaica,NorthEuropean,JAM
+Japan,Asian,JPN
+Jordan,Arabian,JOR
+Kazakhstan,Slavic,KAZ
+Kenya,African,KEN
+South Korea,Asian,KOR
+Kyrgyzstan,Slavic,KGZ
+Laos,Asian,LAO
+Latvia,CentralSouthEuropean,LVA
+Lebanon,Arabian,LBN
+Lesotho,African,LSO
+Liberia,African,LBR
+Libya,Arabian,LBY
+Lithuania,CentralSouthEuropean,LTU
+Luxembourg,NorthEuropean,LUX
+Macao,Asian,MAC
+Malawi,African,MWI
+Malaysia,Indian,MYS
+Maldives,Arabian,MDV
+Mali,African,MLI
+Malta,CentralSouthEuropean,MLT
+Mauritania,Arabian,MRT
+Mauritius,Arabian,MUS
+Mexico,CentralSouthEuropean,MEX
+Moldova,CentralSouthEuropean,MDA
+Mongolia,Asian,MNG
+Montenegro,Slavic,MNE
+Morocco,Arabian,MAR
+Mozambique,African,MOZ
+Myanmar,Asian,MMR
+Namibia,African,NAM
+Nepal,Indian,NPL
+Netherlands,NorthEuropean,NLD
+Nicaragua,CentralSouthEuropean,NIC
+Niger,African,NER
+Nigeria,African,NGA
+Norway,NorthEuropean,NOR
+Oman,Arabian,OMN
+Pakistan,Indian,PAK
+Palestine,ambiguous,PSE
+Panama,CentralSouthEuropean,PAN
+Papua New Guinea,ambiguous,PNG
+Paraguay,CentralSouthEuropean,PRY
+Peru,CentralSouthEuropean,PER
+Philippines,CentralSouthEuropean,PHL
+Poland,Slavic,POL
+Portugal,CentralSouthEuropean,PRT
+Puerto Rico,CentralSouthEuropean,PRI
+Republic Of The Congo,African,COG
+Romania,CentralSouthEuropean,ROU
+Russia,Slavic,RUS
+Rwanda,African,RWA
+Saudi Arabia,Arabian,SAU
+Senegal,African,SEN
+Serbia,Slavic,SRB
+Singapore,Asian,SGP
+Slovakia,Slavic,SVK
+Slovenia,Slavic,SVN
+Somalia,Arabian,SOM
+South Africa,African,ZAF
+Spain,CentralSouthEuropean,ESP
+Sri Lanka,Indian,LKA
+Sweden,NorthEuropean,SWE
+Switzerland,NorthEuropean,CHE
+Syria,Arabian,SYR
+Taiwan,Asian,TWN
+Tajikistan,Slavic,TJK
+Tanzania,African,TZA
+Thailand,Asian,THA
+Togo,African,TGO
+Trinidad And Tobago,ambiguous,TTO
+Tunisia,Arabian,TUN
+Turkey,CentralSouthEuropean,TUR
+Turkmenistan,Slavic,TKM
+Uganda,African,UGA
+Ukraine,Slavic,UKR
+United Arab Emirates,Arabian,ARE
+United Kingdom,NorthEuropean,GBR
+United States,ambiguous,USA
+Uruguay,CentralSouthEuropean,URY
+Uzbekistan,Slavic,UZB
+Venezuela,CentralSouthEuropean,VEN
+Vietnam,Asian,VNM
+Yemen,Arabian,YEM
+Zambia,African,ZMB
+Zimbabwe,African,ZWE
+Sudan,Arabian,SDN
+Djibouti,Arabian,DJI
+Central African Republic,African,CAF
+Sierra Leone,African,SLE
